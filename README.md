@@ -1,76 +1,32 @@
-# About Me: 
+# Hola, soy Dylan
 
-I’m currently studying 'Ingenieria en Ciencias y Sistemas' ("Engineering in Science and Systems") 
+### Estudiante de Ingeniería en Ciencias y Sistemas | Backend Developer
+*Último año - Universidad San Carlos de Guatemala*
 
-I’m working in build some Fullstack projects supporting me with: 
-* The Odin Project 
-* Fullstack Open 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvaibleUser&show_icons=true&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaibleUser&layout=compact&langs_count=6&include_all_commits=true&count_private=true&theme=transparent&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-# 💻 Tech Stack: 
+### 🔧 Tecnologías principales
+[![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-### Most used technologies 
+### 🚀 Experiencia académica
+- **Backend**: Desarrollo con Java (Spring Boot), pruebas con JUnit/Mockito
+- **CI/CD**: Automatización con GitHub Actions
+- **Despliegues**: Contenedores Docker en Cloud Run de GCP
+- **Fullstack**: Proyectos con TypeScript + Tailwind CSS
+- **Microservicios**: Implementaciones básicas
 
-<table> 
-  <tbody> 
-    <tr> 
-      <td> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-      </td> 
-    </tr> 
-      <td> 
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
-      </td> 
-    </tr> 
-  </tbody> 
-</table> 
+### 📂 Proyectos destacados
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| [`E-Health`](https://github.com/AvaibleUser/e-health) | Java, Docker | Proyecto en grupo de microservicios para el manejo de datos de un hospital |
+| [`Revistland`](https://github.com/AvaibleUser/REVISTLAND) | TypeScript, Tailwind | Proyecto en grupo del frontend de una plataforma de publicacion de revistas en PDF |
 
-### Technologies used in some projects 
-
-<table> 
-  <tbody> 
-    <tr> 
-      <td> 
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
-      </td> 
-    </tr> 
-      <td> 
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-      </td> 
-    </tr> 
-      <td> 
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
-      </td> 
-      <td> 
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
-      </td> 
-    </tr> 
-  </tbody> 
-</table> 
-
-# 📊 GitHub Stats: 
-
-### In Rockspringa 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockspringa&exclude_repo=Chatty-Bot-Hyperskill&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
-### In AvaibleUser 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaibleUser&exclude_repo=Taken&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🌱 Aprendiendo actualmente
+- Optimización de despliegues en la nube
+- Fundamentos de ciencia de datos
+- Arquitecturas de microservicios
