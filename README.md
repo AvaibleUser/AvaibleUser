@@ -1,32 +1,28 @@
-# Hola, soy Dylan
+# Hi, I'm Dylan
 
-### Estudiante de Ingeniería en Ciencias y Sistemas | Backend Developer
-*Último año - Universidad San Carlos de Guatemala*
+I'm a **Backend Developer** with about a year of professional experience, focused on building scalable services and understanding how things work under the hood—from system architecture to deployment.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvaibleUser&show_icons=true&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaibleUser&layout=compact&langs_count=6&include_all_commits=true&count_private=true&theme=transparent&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+### What I've been doing lately:
 
-### 🔧 Tecnologías principales
-[![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+- **Java & Spring Boot:** Building microservices and handling data persistence with PostgreSQL.
+- **Cloud & DevOps:** Containerizing apps with Docker and deploying to GCP (Cloud Run, GKE) and AWS (EC2, S3).
+- **Architecture:** Focusing on layered patterns while exploring Event-Driven systems (Kafka) and DDD.
+- **Frontend:** Building functional, reactive UIs with Angular and TypeScript when the project needs it.
 
-### 🚀 Experiencia académica
-- **Backend**: Desarrollo con Java (Spring Boot), pruebas con JUnit/Mockito
-- **CI/CD**: Automatización con GitHub Actions
-- **Despliegues**: Contenedores Docker en Cloud Run de GCP
-- **Fullstack**: Proyectos con TypeScript + Tailwind CSS
-- **Microservicios**: Implementaciones básicas
+### Tech Stack
 
-### 📂 Proyectos destacados
-| Proyecto | Tecnologías | Descripción |
-|----------|-------------|-------------|
-| [`E-Health`](https://github.com/AvaibleUser/e-health) | Java, Docker | Proyecto en grupo de microservicios para el manejo de datos de un hospital |
-| [`Revistland`](https://github.com/AvaibleUser/REVISTLAND) | TypeScript, Tailwind | Proyecto en grupo del frontend de una plataforma de publicacion de revistas en PDF |
+<p align="center">
+  <a href="https://rockspringa.github.io/es/">
+    <img src="https://skillicons.dev/icons?i=linux,git,postman,java,spring,ts,postgres,docker&perline=8&theme=dark" />
+  </a>
+</p>
 
-### 🌱 Aprendiendo actualmente
-- Optimización de despliegues en la nube
-- Fundamentos de ciencia de datos
-- Arquitecturas de microservicios
+---
+
+### Featured Work
+
+- **[Raijin](https://github.com/AvaibleUser/raijin) - Scrum Management Platform:** A microservices-based system using Kafka for asynchronous communication and Hexagonal Architecture.
+- **[Mayhem Map](https://github.com/AvaibleUser/mayhem-map) - Global Alert System:** A real-time monitoring tool with GCP AI integrations, built with Hono (TS), Angular and Kubernetes.
+- **[E-Health](https://github.com/AvaibleUser/e-health) - E-Health Ecosystem:** Scalable hospital management with JWT security, testing and CI/CD pipelines.
+
+**[Check out my full portfolio](https://rockspringa.github.io/es/)**
